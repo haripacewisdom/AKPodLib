@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'AkpodLib'
-  spec.version          = '0.0.1'
+  spec.version          = '0.1.0'
   spec.license          = { :type => 'BSD' }
   spec.homepage         = 'https://github.com/haripacewisdom/AKPodLib.git'
   spec.authors          = { 'hariharaprabu.m' => 'hariharaprabu.m@pacewisdom.com' }
