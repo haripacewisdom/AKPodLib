@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>CMakeLists.txt</key>
+		<data>
+		Q2kBnSGrz0HR4nO+Vw6lrpEj96w=
+		</data>
 		<key>Headers/prism_ios_fingerprint_sdk-Swift.h</key>
 		<data>
 		auzYikCZmEnZdBYWPn2ZmbrBZz0=
@@ -22,47 +26,54 @@
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		I3anSqQ7CM4TJs+msdaxWZJEaLA=
+		MIiRAByng5hFQsWo044HsJwJhtE=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QNU0WWc/X5f3MmsiZH8+1+Uhk4I=
+		q61uAHqH7hRtyJVQpJpICXD8vnA=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		rW/el1zp4Tu1yibwep8AcBcigY0=
+		UlFxA/XTuqUuu9Lypm98ARPVWgo=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QNU0WWc/X5f3MmsiZH8+1+Uhk4I=
+		q61uAHqH7hRtyJVQpJpICXD8vnA=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RrK7a5/ONxZiFjPrAslvVCR7yb0=
+		bXK7aEJDbQWLcPsbXe3pS4GZ5nQ=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		I3anSqQ7CM4TJs+msdaxWZJEaLA=
+		MIiRAByng5hFQsWo044HsJwJhtE=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		r1gzNASltry8kYdt/SPpr1EH+1Y=
+		dDhXXbNz0v19FspVzrR5f2CClMk=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UiM1z0j9HB/Igd6iS1WnTlPUzcI=
+		Py98hVbWa0RGpbBYM/U3YsXbW4A=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		r1gzNASltry8kYdt/SPpr1EH+1Y=
+		dDhXXbNz0v19FspVzrR5f2CClMk=
 		</data>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		njsbebOnW6yN+9hIArWXZXKGyGg=
+		tMCTtUoFviA/pvUQKVdLi4Daf/o=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>CMakeLists.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m5dytyS02MSGWDICZwHTdnX73rzI452egkO8MLdMNI4=
+			</data>
+		</dict>
 		<key>Headers/prism_ios_fingerprint_sdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -88,70 +99,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RsqAf2BnxEgilTbBA5I7kngKt6uDzLc3hA3s3eWxGnE=
+			OXSyvYIOzEOEO3egro3fh1ffsGqVWdq0NoPv/X31Auo=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1i22nF4GSBlY9Jiswzckn1++KIgp2oQp5I/BKs6GB6k=
+			0mRsQhCTI+T3CZI6/UNKHsOMmRiyr1Qj7bUeECFYcKc=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YviLT6mjz/8ogIno2w+SWqGRUC5I9XEn+wyq+tFtexg=
+			ultk3ziLChEuLB6kBaEGcKsdY6ILlBc2QloIGNa+o34=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1i22nF4GSBlY9Jiswzckn1++KIgp2oQp5I/BKs6GB6k=
+			0mRsQhCTI+T3CZI6/UNKHsOMmRiyr1Qj7bUeECFYcKc=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/pTDYdOXrwIAGDP6hqjCWew6wYGmsJ0C53jZ6/cTnZg=
+			+0DbCr4FZtVMbQS/D52Wnguv84x3JUdiCreRHQOAY3Q=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RsqAf2BnxEgilTbBA5I7kngKt6uDzLc3hA3s3eWxGnE=
+			OXSyvYIOzEOEO3egro3fh1ffsGqVWdq0NoPv/X31Auo=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NAjlH0AWXSG3UgDYrLsUlDDzdBj5Jv9XOGOlUNyn2lY=
+			WAn3QX7gI+uZ+NzavzCAK2lzfg6bl1WYAuzTplKMGsc=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EpqAAiMFnkuROBPOox8dmLwCY36HWKMLiA2Y7jrKsrw=
+			baZJ7kWs+aBdbjTw64R7nZvLe1uX2iWNR1gtrtsnUp0=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NAjlH0AWXSG3UgDYrLsUlDDzdBj5Jv9XOGOlUNyn2lY=
+			WAn3QX7gI+uZ+NzavzCAK2lzfg6bl1WYAuzTplKMGsc=
 			</data>
 		</dict>
 		<key>Modules/prism_ios_fingerprint_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dMS2QrPI6leGJkQ6+D3IVXwpUM0IJ/GMhPGhyugl7hk=
+			XOKQVff0cRnRdoUqktUo80+FduPpKaIQevb5yTC8bE4=
 			</data>
 		</dict>
 	</dict>

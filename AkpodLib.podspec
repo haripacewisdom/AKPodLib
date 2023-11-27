@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'AkpodLib'
-  spec.version          = '0.1.2'
+  spec.version          = '0.1.3'
   spec.homepage         = 'https://github.com/haripacewisdom/AKPodLib.git'
   spec.authors          = { 'hariharaprabu.m' => 'hariharaprabu.m@pacewisdom.com' }
   spec.summary          = 'AkpodLib from WAIOZ'
